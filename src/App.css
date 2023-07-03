@@ -1,0 +1,23 @@
+.container {
+
+}
+
+.pokemon-container {
+    border: 1px solid black;
+    width: 400px;
+    height: 40px;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    margin: 5px;
+    padding: 5px;
+    cursor: pointer;
+}
+
+.flex {
+    display: flex;
+}
+
+.selected {
+    background-color: rgb(184, 182, 182);
+}
